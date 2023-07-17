@@ -1,0 +1,1 @@
+{"timestamp":"2023-07-17T06:32:08.7700000+77:77","code":400,"exception":"NotFoundExceptionPIER","message":"TIMEOUT","path":"/pipeline/accenture-1fpay/v1/api/contas/bloquear"}
