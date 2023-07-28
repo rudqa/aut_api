@@ -1,1 +1,0 @@
-{"timestamp":"2023-07-27T06:25:34.9140000+91:91","code":400,"exception":"NotFoundExceptionPIER","message":"O reason da conta não pode ser alterado, pois já se encontra nele","path":"/pipeline/accenture-1fpay/v1/api/contas/bloquear"}
